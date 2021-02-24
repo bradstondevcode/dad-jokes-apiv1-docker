@@ -2,4 +2,4 @@
 
 Dad jokes Api powered by [icanhazdadjoke API](https://icanhazdadjoke.com/)
 
-Simple API used for deploying to Docker environment
+Containerized version of [Dad Jokes API](https://github.com/bradstondevcode/dad-jokes-apiv1/tree/master)
