@@ -2,4 +2,4 @@
 
 Dad jokes Api powered by [icanhazdadjoke API](https://icanhazdadjoke.com/)
 
-Simple API used for deploying to Container environment
+Simple API used for deploying to Docker environment
